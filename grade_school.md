@@ -6,7 +6,7 @@ Write a small archiving program that stores students along with the grade that t
 school = School.new("Haleakala Hippy School")
 ```
 
-If no students have been added, the db should be empty:
+If no students have been added, the db should be empty: ('db' is a name you do not need to create a postgres database)
 
 ```ruby
 school.db
